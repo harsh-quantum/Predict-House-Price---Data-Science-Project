@@ -1,0 +1,4 @@
+This folder contain 
+:- Python file in which we did the data cleaning , fitting , reducing dimention and other stuff and finally made a clean model 
+:- Pickle file of the model which we used in server file
+:- data csv file 
