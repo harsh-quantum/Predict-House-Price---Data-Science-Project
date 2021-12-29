@@ -1,0 +1,3 @@
+This folder will contain all the files needed which will connect the backend data with model .
+When we created the model in python then we make the pickle file of it.
+After that wrote the code in Pycharm that will acees the code and all this written in server and util file 
