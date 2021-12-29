@@ -6,6 +6,6 @@
 
 
 Steps :
-1: Use the Benglore_House_Data.csv file for the DATA and clean the data using python on JUPYTER NOTEBOOK
+1: Use the House_Data.csv file for the DATA and clean the data using python on JUPYTER NOTEBOOK
 
 
